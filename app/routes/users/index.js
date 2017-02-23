@@ -1,4 +1,4 @@
-const users = require('express').Router();
+var users = require('express').Router();
 
 users.route('/hello')
 
